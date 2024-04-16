@@ -1,6 +1,8 @@
 # Encryption/Decryption Code
 Made an encryption/decryption (and other stuff) program. Need help with making a GUI out of it though so if you have any suggestions or anything I can improve, then let me know :)
 
+Disclaimer: the text mentions financial information but the code holds no financial information about me. Hope this clears things up :)
+
 Scripts
 
 filename_transformer.py:
